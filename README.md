@@ -67,3 +67,5 @@ Add custom connector
 Add custom connector
 
 `https://1m82g32x8nkoppinayx0k5ye12oar6vk.deployments.mcp-agent.com/sse`
+
+<img width="1122" height="1021" alt="image" src="https://github.com/user-attachments/assets/e9367309-7ebd-4e40-aa16-56dcae17b5eb" />
