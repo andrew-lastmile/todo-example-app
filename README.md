@@ -21,6 +21,10 @@ Altogether, this is the simplest and easiest way to build robust agent applicati
 
 ## Setup Instructions
 
+Prerequisites:
+- Python 3.10+
+- uv
+
 1. Initialize a new UV project:
 ```bash
 uv init
