@@ -1,4 +1,8 @@
 execution_engine: asyncio
+
+name: "ToDos"
+description: "Getting started with a To Do app"
+
 logger:
   transports: [console, file]
   level: debug
