@@ -60,12 +60,14 @@ uv run mcp-agent deploy --no-auth
 
 Add custom connector
 
-`https://1m82g32x8nkoppinayx0k5ye12oar6vk.deployments.mcp-agent.com/sse`
+**example url**: `https://1m82g32x8nkoppinayx0k5ye12oar6vk.deployments.mcp-agent.com/sse`
+
+https://github.com/user-attachments/assets/cb50700c-5650-4f12-ac2e-2eabba5c8144
 
 ### Claude Desktop
 
 Add custom connector
 
-`https://1m82g32x8nkoppinayx0k5ye12oar6vk.deployments.mcp-agent.com/sse`
+**example url**: `https://1m82g32x8nkoppinayx0k5ye12oar6vk.deployments.mcp-agent.com/sse`
 
-<img width="1122" height="1021" alt="image" src="https://github.com/user-attachments/assets/e9367309-7ebd-4e40-aa16-56dcae17b5eb" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/e9367309-7ebd-4e40-aa16-56dcae17b5eb" />
