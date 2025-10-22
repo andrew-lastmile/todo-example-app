@@ -42,6 +42,11 @@ uv add openai
 
 4. Configure your OpenAI API key in `mcp_agent.secrets.yaml`
 
+5. Login to your mcp-agent cloud account
+```bash
+uv run mcp-agent login
+```
+
 ## Usage
 
 ### Run Locally
